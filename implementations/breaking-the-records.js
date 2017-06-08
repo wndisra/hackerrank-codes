@@ -26,24 +26,24 @@ function readLine() {
 /////////////// ignore above this line ////////////////////
 
 function getRecord(s) {
-  var highCounter = 0
-  var lowCounter = 0
-  var currentHighest = s[0]
-  var currentLowest = s[0]
+  var highCounter = 0;
+  var lowCounter = 0;
+  var currentHighest = s[0];
+  var currentLowest = s[0];
 
   for (var i = 0; i < s.length; i++) {
     if (s[i + 1] > currentHighest) {
-      highCounter++
-      currentHighest = s[i + 1]
+      highCounter++;
+      currentHighest = s[i + 1];
     }
 
     if (s[i + 1] < currentLowest) {
-      lowCounter++
-      currentLowest = s[i + 1]
+      lowCounter++;
+      currentLowest = s[i + 1];
     }
   }
 
-  return [highCounter, lowCounter]
+  return [highCounter, lowCounter];
 }
 
 function main() {
