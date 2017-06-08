@@ -1,3 +1,8 @@
+/**
+ * Wanda Ichsanul Isra
+ * https://www.hackerrank.com/challenges/solve-me-first
+ */
+
 process.stdin.resume();
 process.stdin.setEncoding('ascii');
 
