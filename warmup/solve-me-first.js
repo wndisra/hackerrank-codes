@@ -34,5 +34,6 @@ function main() {
   var b = parseInt(readLine());;
 
   var res = solveMeFirst(a, b);
+
   console.log(res);
 }
