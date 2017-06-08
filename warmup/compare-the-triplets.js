@@ -1,6 +1,6 @@
 /**
  * Wanda Ichsanul Isra
- * https://www.hackerrank.com/challenges/simple-array-sum
+ * https://www.hackerrank.com/challenges/compare-the-triplets
  */
 
 process.stdin.resume();
