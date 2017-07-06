@@ -23,7 +23,7 @@
 │   ├── sock-merchant.js
 │   └── the-hurdle-race.js
 ├── recursion
-│   └── the-power-sum.js 
+│   └── the-power-sum.js
 ├── search
 │   ├── ice-cream-parlor.js
 │   └── missing-numbers.js
@@ -47,5 +47,5 @@
     ├── staircase.js
     └── time-conversion.js
 
-9 directories, 32 files
+9 directories, 36 files
 ```
