@@ -6,6 +6,8 @@
 │   ├── lonely-integer.js
 │   └── maximizing-xor.js
 ├── graph-theory
+│   ├── clique.js
+│   └── even-tree.js
 ├── greedy
 │   ├── marcs-cakewalk.js
 │   └── mark-and-toys.js
@@ -21,6 +23,7 @@
 │   ├── sock-merchant.js
 │   └── the-hurdle-race.js
 ├── recursion
+│   └── the-power-sum.js 
 ├── search
 │   ├── ice-cream-parlor.js
 │   └── missing-numbers.js
